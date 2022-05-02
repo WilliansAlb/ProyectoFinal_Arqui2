@@ -1,0 +1,12 @@
+{
+	"type": "service_account",
+	"project_id": "cobroapp-334202",
+	"private_key_id": "2cd5f5f55d4c1c95b66c00bd884e79600a80d6bb",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCY1Wx9RAq1oIcl\n2eBlP0xjG8QXMSjo2IhUGkIJ/vKvuz1Yq0xOtW6gn8aGCJYBjoOfo3J6SrlF4M7x\nWkgdPYpg53urWaupk6hM5Zkst1AqGfsjoEakuc0SbIwiGk0Rnotl8aH5IcYk3KAo\nroi4v6DOp4G8TLdrOzJkD7ZMd4Ty/Lqu028xTzSJgtoeCogxL16DiIBKvklwmnmM\nkmo3bmgcft1AUdOOhsbn2kIiL/aXWCoGPzjYlEJ8C8U9jHbh6kViU3ibj5Ye/3Kj\nPV8cQNvV8SQ/WlskgxjJZ0ocGdysaRrhxEHKWDKDLnmkYNdFSrcL7H3kjZfOeFY0\nucCOl6ZLAgMBAAECggEABCUpu54IUlPHxpmJsgVM+5UptN1S+DnDPNC3gNDm4ShJ\naim/OJVIKlgbCNCbzPACFubWeIWlT8Vgp4Ak25IrOiSdIJEejEtica96f5F7PaEV\nxCoZMGePrdO+2z/uXi94JWwv0fN+DcrkFyZgs+4SnPhDFwnXobNp0vfwIFPPic2R\nQTN5EyoCGIeo8HiXg7jysMKxruofAT9VosbAmIUX1RIg44qwWUXJqR9Shg3Pj64Q\nfFAGv9EC6P1+qile2PfIB8ltLLjfZLWFrGiOmoztnaLa/mFXNI2kblHjA5PBg2Y7\nh8tNAbQe7wDzWX6TdiR0fmgFaocan6tGGw51RhB4gQKBgQDKEKYvAeJKBed21aoo\nlLLrBJ3RUfg5dm+YtGlSNWa6+LDo3Ag+es/kN5GrZOjIlH+G6ehSp1Jfzws3g2ZS\npBZAB2QywE/tNnVV4lELwh81y85EIwPqg+2YVBwb0V6rxLzMYOGNIPRLJNq9RcGs\n0UGabKKw35Ek7LtHlfu+aIKLywKBgQDBoLyDbI0RUpo9dTwnZbDjTJj1dIRmVm/h\nw7m19h71DjTvwi3NQFd67u+P2BcPQ36G+NYP6Nk4cOLvR6ViVqdNW00JfVbUre87\nqAvK8oCt85nRvxtg30F3iMNRzHTlIHRdMJ4JIVe20KApL8DNKs/qTmrhLPMQw11Q\niOnjQLD/gQKBgCPW4CLmSqSmd290ZkHcXf+hSfyedVB72T9UgHm8TwRKp9YlcLDk\nR4tK7+NeeotZC2V6h2JhmxKzPmISREvUHr4skXEO+x4v0o/xHD7hp3d7NpKPQ1qN\nG88w2+tzLz94HaSCan8FoU7SsplvjfKBCwnAyvpkLPJHqs//oi8bikwRAoGAU7ZY\nikFuI+Ughh2fajEO7tZ48vXzIAOSz3q9WawU6kHAJUBAaRK+P4n5zKjSH2lA1L3U\nXoB/GWXE10qUeBWas1kbz1R/K+gfHB2lK5L4izxcblA/V/xt424fc8f/aehEJt4U\nFUJzF7jO5b+djZZK2bQZhUzXsZGlUGJBLF0VqQECgYBNNjMLXwikkRCfJ2c7J3js\niBxfZeFbshdAoqlP6XoXVQLdJKPma0EXua0WcS4CtrVPVntZfvFtMZ7Z3S7qUxH7\n47GSh98cKdype6BVnsvfYVpcP3QFtZUfcVzTzeQoET0I52JrL7Yg6Td8KEWteKR7\nYSkLwiX6qSZaCCAPlhU0CQ==\n-----END PRIVATE KEY-----\n",
+	"client_email": "cobroapp@cobroapp-334202.iam.gserviceaccount.com",
+	"client_id": "102779698739180606344",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cobroapp%40cobroapp-334202.iam.gserviceaccount.com"
+}

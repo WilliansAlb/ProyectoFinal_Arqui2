@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+
+h1 {
+	color: yellow;
+}
+
+#netflix-logo {
+	fill: #e50914;
+}
+
+svg {
+	width: 100px;
+}
+
+#contenedor {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+	animation-name: aparecer;
+	animation-duration: 2s;
+	width: 90%;
+}
+#contenedor2 {
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    animation-name: aparecer;
+    animation-duration: 2s;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#contenedor2 div{
+	margin: 1em;
+    background-color: #303030;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+@keyframes aparecer {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+body {
+	background-color: #303030;
+}
+
+#padre {
+	/*IMPORTANTE*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+
+#fondo {
+	position: fixed;
+	z-index: -1000;
+	width: 100%;
+	height: 100%;
+	background-image: url(https://images.everydayhealth.com/homepage/health-topics-2.jpg?sfvrsn=757370ae_2);
+	background-position-y: 95%;
+	background-size: cover;
+}
+
+* {
+	font-family: 'Bakbak One', cursive;
+	margin: 0;
+	color: yellow;
+}
+
+#contra{
+	display: none;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #1e100e;
+	padding: 2em;
+	border-radius: 2em;
+}
+
+#password{
+	width: 100%;
+	text-align: center;
+	color: black;
+}
+
+#nombre{
+	width: 100%;
+	background: none;
+	border: none;
+	text-align: center;
+	font-size: 3em;
+}
+
+td, th{
+	border: 1px solid white;
+	color: yellow;
+}
+
+.tabla{
+	border-collapse: collapse;
+	width: 90%;
+	text-align: center;
+	background-color: black;
+	font-size: 1.3em;
+}
+tr:hover{
+	background-color: rgba(24, 24, 24, 0.363);
+}
+
+hr{
+	width: 10%;
+}
+
+.perfiles {
+	display: flex;
+	flex-direction: column;
+}
+
+button span {
+	color: gray;
+}
+
+img {
+	margin: 0.5em;
+	border-radius: 1em;
+}
+
+button {
+	margin: 1em;
+	background-color: transparent;
+	border: none;
+	color: gray;
+	border: 1px solid transparent;
+}
+
+button:hover {
+	margin: 1em;
+	background-color: black;
+	cursor: pointer;
+	color: yellow;
+	border-radius: 1em;
+	border: 1px solid white;
+}
+
+#imgPerfil{
+	position: absolute;
+	left: 2em;
+    top: 2em;
+    background-color: black;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#situacion{
+	display: flex;
+	flex-direction: row;
+	padding: 1em;
+	border-radius: 1em;
+	background-color: black;
+}
+
+.situacion{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+form{
+	display: flex;
+	flex-direction: column;
+}
+
+hr{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.tbody_info tr td, .thead_info tr th{
+	color: yellow;
+	font-size: 0.8em;
+}
+
+.table_info{
+	border-collapse: collapse;
+	text-align: center;
+}
+
+#informacion_cuenta{
+	margin: 1em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#olvidaste{
+	display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    color: black;
+    padding: 1em;
+    border-radius: 3em;
+}
+#titulo{
+	color: black;
+}
